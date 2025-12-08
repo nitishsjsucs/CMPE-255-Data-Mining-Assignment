@@ -17,6 +17,7 @@
 - [The Problem](#the-problem)
 - [Our Solution](#our-solution)
 - [Key Results](#key-results)
+- [Project Resources](#project-resources)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
   - [Quick Start (Windows)](#quick-start-windows)
@@ -159,6 +160,37 @@ We combine the accuracy of rigorous physics simulation with the speed of deep le
 
 ![Comparison](output_comparison.png)
 *Transformation: Binary mask → Smooth intensity distribution*
+
+---
+
+## Project Resources
+
+### 📹 Demo Video
+
+Watch our comprehensive project demonstration:
+
+**[CMPE-255 Data Mining demo video.mp4](CMPE-255%20Data%20Mining%20demo%20video.mp4)**
+
+The demo video includes:
+- Live demonstration of the interactive Streamlit application
+- Walkthrough of the CNN training pipeline
+- Visualization of simulation results
+- Performance metrics and comparison analysis
+- Architecture overview and key features
+
+### 📄 Project Report
+
+Read the complete technical documentation:
+
+**[CMPE-255 DATA MINING_Project Report.docx](CMPE-255%20DATA%20MINING_Project%20Report.docx)**
+
+The project report contains:
+- Detailed problem statement and motivation
+- Comprehensive methodology and approach
+- CNN architecture and training pipeline
+- Experimental results and ablation studies
+- Performance analysis and conclusions
+- Future work and potential improvements
 
 ---
 
