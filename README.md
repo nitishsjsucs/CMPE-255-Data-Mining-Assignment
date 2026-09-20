@@ -5,10 +5,10 @@ Tanabe et al.'s CNN surrogate for EUV lithography simulation, and adds a Streaml
 front-end for exploring the simulator's output. It ships with the written report
 (`CMPE-255 DATA MINING_Project Report.docx`) and the demo video submitted for the course.
 
-**The simulator and CNN code here are not my work.** They are the reference
-implementation from [takahashi-edalab/EUVlitho](https://github.com/takahashi-edalab/EUVlitho)
-(MIT, Copyright (c) 2024 Hiroyoshi Tanabe). My contribution is the study, the report, the
-video, and the visualisation layer (`streamlit_app.py`, `analyze_data.py`,
+The simulator and CNN code are the reference implementation from
+[takahashi-edalab/EUVlitho](https://github.com/takahashi-edalab/EUVlitho)
+(MIT, Copyright (c) 2024 Hiroyoshi Tanabe). The course artifacts are the study, the report,
+the video, and the visualisation layer (`streamlit_app.py`, `analyze_data.py`,
 `setup_windows.py`, `run_streamlit.bat`). Upstream's own documentation is preserved at
 [`include/README.md`](include/README.md).
 
